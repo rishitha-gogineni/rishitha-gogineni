@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,18,20&text=Rishitha%20Gogineni&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,18,20&text=Rishitha%20Gogineni&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Building%20AI%20Systems%20%C2%B7%20Former%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;RAG+%7C+Retrieval+%7C+LLM+Evaluation;Reliable%2C+measurable%2C+deployed;M.S.+Data+Analytics+%40+San+Jose+State" alt="Typing SVG" />
@@ -42,7 +42,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About
 
-> **AI Engineer** specializing in reliable, measurable, and production-ready LLM systems. I build end-to-end AI systems across retrieval, agentic workflows, evaluation, and deployment, backed by a strong foundation in scalable data systems. Currently pursuing an M.S. in Data Analytics at San José State University (Dec 2027).
+> **Interested in building production-ready AI systems.** I work on reliable, measurable LLM systems across retrieval, agentic workflows, evaluation, and deployment. As a former data engineer, I bring a strong foundation in scalable data systems to everything I build. Currently pursuing an M.S. in Data Analytics at San José State University (Dec 2027).
 
 **Open to:** Summer 2027 internships — AI Engineer · Machine Learning Engineer · Software Engineer (AI-focused)
 
@@ -62,25 +62,28 @@
 
 **AI / ML & Data**
 
+<p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
 **Backend & Databases**
 
+<p>
 <img src="https://skillicons.dev/icons?i=fastapi,streamlit,postgres,mongodb&theme=dark" />
-&nbsp;
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+<img src="https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=databricks&logoColor=white" alt="Delta Lake" />
+</p>
 
 **Cloud, DevOps & Tooling**
 
+<p>
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions&theme=dark" />
-&nbsp;
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
+</p>
 
 </div>
 
@@ -94,12 +97,12 @@
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
-| **Retrieval-Augmented Generation** | `Advanced` | Hybrid BM25 + dense retrieval, chunking strategies, citation-aware scoring |
-| **Vector Search & Embeddings** | `Advanced` | OpenAI `text-embedding-3-large`, Matryoshka dimensionality reduction, Qdrant |
+| **Retrieval-Augmented Generation** | `Proficient` | Hybrid BM25 + dense retrieval, chunking strategies, citation-aware scoring |
+| **Vector Search & Embeddings** | `Proficient` | OpenAI `text-embedding-3-large`, Matryoshka dimensionality reduction, Qdrant |
 | **Agentic Systems** | `Proficient` | Stateful agent graphs, conditional routing, adaptive re-retrieval, CRAG-style gating |
-| **LLM Evaluation** | `Advanced` | Golden datasets, Recall@K, MRR, route accuracy, faithfulness assessment |
+| **LLM Evaluation** | `Proficient` | Golden datasets, Recall@K, MRR, route accuracy, faithfulness assessment |
 | **Prompt Engineering** | `Proficient` | Query rewriting, structured outputs, evidence-grounded refusal |
-| **Data Engineering for ML** | `Advanced` | Large-scale ingestion, PySpark, medallion architecture, feature pipelines |
+| **Data Engineering for ML** | `Proficient` | Large-scale ingestion, PySpark, medallion architecture, feature pipelines |
 
 ---
 
@@ -108,6 +111,8 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Featured Projects
+
+### Personal Project
 
 <details open>
 <summary><b>🔬 Research Synthesis Engine</b> — Production RAG system over academic literature</summary>
@@ -118,19 +123,68 @@ A full-stack, evidence-grounded research assistant that retrieves and synthesize
 
 | Attribute | Detail |
 |:----------|:-------|
-| **Stack** | Python · FastAPI · Streamlit · Qdrant · OpenAI · Docker |
+| **Stack** | Python · FastAPI · Streamlit · Qdrant · OpenAI · Docker · Render · Streamlit Cloud |
 | **Scale** | 4,909 full-text chunks across 250+ papers |
 | **Performance** | 1.00 route accuracy · 0.76 Recall@10 · 0.75 MRR · latency 21.3s → 8.8s (~59% ↓) |
 | **Engineering** | Matryoshka embeddings (3072→1024) for 3× storage savings · 303 tests · deterministic CI |
 | **Impact** | Evidence-gated generation eliminates unsupported answers on out-of-corpus queries |
 | **Links** | [Repository](https://github.com/rishitha-gogineni/research-synthesis-engine) · [Live Demo](https://research-synthesis-engine-auf9fawskhzarpqdv3sn2q.streamlit.app/) |
 
-Built a hybrid retrieval pipeline (BM25 + dense) feeding a stateful agent graph with conditional routing and adaptive re-retrieval — up to 2 retries with query rewriting when confidence is low. The system is measured against a 50-query golden evaluation suite and deployed end-to-end on Render and Streamlit Cloud with Qdrant Cloud.
+**What it does**
+
+- **Hybrid retrieval** — combines sparse BM25 keyword matching with dense semantic search over OpenAI `text-embedding-3-large` vectors, fusing both rankings for higher recall than either alone
+- **Agentic orchestration** — a stateful agent graph routes each query, checks retrieval confidence, and adaptively re-retrieves (up to 2 retries with LLM query rewriting) when initial results are weak
+- **CRAG-style confidence gating** — grades retrieved evidence before generating; on out-of-corpus queries the system refuses rather than hallucinating an answer
+- **Matryoshka embeddings** — truncates 3072-dim vectors to 1024 dims, cutting vector-store footprint ~3× with under 2% recall loss, lowering infra cost
+- **Rigorous evaluation** — a 50-query golden suite scores route accuracy, Hit Rate@K, Recall@K, MRR, and faithfulness, so quality is measured, not assumed
+- **Production deployment** — FastAPI backend on Render, Streamlit UI on Streamlit Cloud, Qdrant Cloud vector store, fully containerized with Docker for reproducible local runs
+- **Test discipline** — 303 tests across retrieval, agent, ingestion, and UI layers with isolated fixtures and mocked LLM calls for deterministic CI
+
+</details>
+
+### Academic Projects — M.S. Data Analytics, SJSU
+
+<details>
+<summary><b>🧠 Stress Detection from Wearable Signals</b> — ML on physiological sensor data (DATA 230)</summary>
+
+<br/>
+
+A machine-learning pipeline that detects stress from wearable physiological signals (ECG, EDA, respiration) using the WESAD dataset, benchmarked with subject-independent cross-validation.
+
+| Attribute | Detail |
+|:----------|:-------|
+| **Stack** | Python · scikit-learn · TensorFlow · NVIDIA RAPIDS · Streamlit |
+| **Scale** | WESAD dataset — 15 subjects, multi-channel wearable sensor streams |
+| **Performance** | Random Forest 84.6% · 1D CNN 88.9% accuracy (Leave-One-Subject-Out CV) |
+| **Engineering** | Sliding-window feature extraction; GPU-accelerated signal processing with RAPIDS |
+| **Impact** | Identified electrodermal activity (EDA) as the strongest stress predictor |
+| **Links** | [Repository](https://github.com/rachandeepkaur/Data230-Project-Stress-Detection) |
+
+Extracted time-domain features from raw sensor windows, trained and compared classical and deep models, and evaluated with Leave-One-Subject-Out cross-validation for realistic generalization. *(Team project)*
 
 </details>
 
 <details>
-<summary><b>🏎️ Formula 1 Performance Analytics Platform</b> — Modern data stack pipeline</summary>
+<summary><b>💼 Distributed LinkedIn-Style Platform</b> — Microservices with agentic AI (DATA 236)</summary>
+
+<br/>
+
+A distributed professional-networking platform simulating core LinkedIn features, built on an event-driven microservice architecture with an agentic AI hiring assistant.
+
+| Attribute | Detail |
+|:----------|:-------|
+| **Stack** | React · TypeScript · FastAPI · Apache Kafka · MySQL · MongoDB · Redis · Docker |
+| **Architecture** | Event-driven services over Kafka; MySQL for transactional data, MongoDB for events, Redis for caching |
+| **AI** | Agentic hiring assistant — candidate discovery, LLM resume parsing, hybrid embedding/rule scoring, ranked shortlists |
+| **Impact** | Human-in-the-loop approval workflow with real-time WebSocket progress updates |
+| **Links** | [Repository](https://github.com/snehas-SJSU/DS_Project_236) |
+
+Designed the distributed backbone — Kafka domain events across worker consumers, polyglot persistence, and Redis-backed idempotency — with a separate AI service powering the multi-step hiring pipeline. *(Team project)*
+
+</details>
+
+<details>
+<summary><b>🏎️ Formula 1 Performance Analytics Platform</b> — Modern data stack pipeline (DATA 226)</summary>
 
 <br/>
 
@@ -140,8 +194,7 @@ An end-to-end analytics pipeline ingesting historical and near-real-time Formula
 |:----------|:-------|
 | **Stack** | Apache Airflow · Snowflake · dbt · Docker · Looker Studio |
 | **Scale** | Rolling 120-day window of race/qualifying/telemetry data |
-| **Performance** | Session-aware dedup across weekly + daily pipelines prevents double-counting |
-| **Engineering** | dbt feature models: tire degradation index, pace momentum, rolling stability |
+| **Engineering** | dbt feature models (tire degradation index, pace momentum, rolling stability); session-aware dedup across weekly + daily pipelines |
 | **Impact** | KPI dashboard surfacing lap trends, pace strategy, and degradation analytics |
 | **Links** | [Repository](https://github.com/rishitha-gogineni/DATA226/tree/main/DATA226_FORMULA1_PROJECT) |
 
@@ -162,11 +215,13 @@ Orchestrated dual ingestion pipelines in Airflow — weekly historical loads and
 
 Built and operated a medallion-architecture lakehouse for a consumer healthcare client on Azure and Databricks.
 
-- 30+ Silver/Gold transformations on Databricks (Delta Lake), processing ~2 TB daily across 15+ ADF-orchestrated pipelines
-- Gold-layer aggregation tables cutting downstream Synapse query volume ~40% and powering 10+ Power BI dashboards
-- Delta Live Tables validation at Bronze→Silver boundaries, reducing manual reconciliation errors ~30%
+- Built 30+ Silver/Gold transformations on Databricks (Delta Lake), processing ~2 TB daily across 15+ ADF-orchestrated pipelines
+- Designed Gold-layer aggregation tables that replaced repeated ad-hoc queries, cutting downstream Synapse query volume ~40% and powering 10+ Power BI dashboards
+- Implemented Delta Live Tables validation at Bronze→Silver boundaries to catch schema drift and null-key violations, reducing manual reconciliation errors ~30%
+- Tuned PySpark jobs with partitioning and caching strategies to keep daily SLAs on a growing data volume
+- Partnered with analysts and business stakeholders to translate reporting requirements into reliable Gold-layer data models
 
-![PySpark](https://img.shields.io/badge/-PySpark-1a1a2e?style=flat-square) ![Databricks](https://img.shields.io/badge/-Databricks-1a1a2e?style=flat-square) ![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-1a1a2e?style=flat-square) ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-1a1a2e?style=flat-square) ![Synapse](https://img.shields.io/badge/-Synapse-1a1a2e?style=flat-square)
+![PySpark](https://img.shields.io/badge/-PySpark-1a1a2e?style=flat-square) ![Databricks](https://img.shields.io/badge/-Databricks-1a1a2e?style=flat-square) ![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-1a1a2e?style=flat-square) ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-1a1a2e?style=flat-square) ![Synapse](https://img.shields.io/badge/-Synapse-1a1a2e?style=flat-square) ![Power BI](https://img.shields.io/badge/-Power%20BI-1a1a2e?style=flat-square)
 
 ### Data Engineer · Cognizant Technology Solutions
 `Nov 2019 – Nov 2022` · Chennai, India
@@ -174,10 +229,13 @@ Built and operated a medallion-architecture lakehouse for a consumer healthcare 
 Maintained and modernized a large on-prem Hadoop platform for a pharmaceutical client, leading the migration to Spark.
 
 - Maintained 20+ production Hadoop/Hive ETL pipelines; resolved 50+ incidents across scheduling, data skew, and schema drift
-- Led migration of batch jobs from Hive/MapReduce to PySpark, cutting runtime ~3 hrs → under 90 min
-- Python reconciliation scripts enabling a 2–3 week parallel-run validation for a zero-disruption cutover
+- Led migration of batch jobs from Hive/MapReduce to PySpark, cutting runtime ~3 hrs → under 90 min via in-memory processing and partition pruning
+- Wrote Python reconciliation scripts that diffed Hive vs. Spark outputs row-by-row, enabling a 2–3 week parallel-run validation for a zero-disruption cutover
+- Rewrote complex Hive/SQL transformations as optimized Spark DataFrame logic, improving maintainability and performance
+- Collaborated with QA and business teams to validate data consistency across legacy and migrated pipelines
+- Grew from production support into a migration lead role, owning end-to-end delivery of the Spark cutover
 
-![Hadoop](https://img.shields.io/badge/-Hadoop-1a1a2e?style=flat-square) ![Hive](https://img.shields.io/badge/-Hive-1a1a2e?style=flat-square) ![PySpark](https://img.shields.io/badge/-PySpark-1a1a2e?style=flat-square) ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-1a1a2e?style=flat-square)
+![Hadoop](https://img.shields.io/badge/-Hadoop-1a1a2e?style=flat-square) ![Hive](https://img.shields.io/badge/-Hive-1a1a2e?style=flat-square) ![PySpark](https://img.shields.io/badge/-PySpark-1a1a2e?style=flat-square) ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-1a1a2e?style=flat-square) ![MapReduce](https://img.shields.io/badge/-MapReduce-1a1a2e?style=flat-square)
 
 ---
 
@@ -202,7 +260,7 @@ Maintained and modernized a large on-prem Hadoop platform for a pharmaceutical c
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishitha-gogineni&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishitha-gogineni&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<img height="165" src="https://streak-stats.demolab.com/?user=rishitha-gogineni&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 <br/>
 
