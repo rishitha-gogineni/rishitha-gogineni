@@ -331,6 +331,6 @@ open_to:
 
 > *"Ship AI that's measured, tested, and grounded in evidence — not demos."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,18,20" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=7C3AED" alt="footer" />
 
 </div>
