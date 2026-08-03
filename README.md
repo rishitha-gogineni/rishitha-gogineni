@@ -4,33 +4,33 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,18,20&text=Rishitha%20Gogineni&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Building%20AI%20Systems%20%C2%B7%20Former%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=20,24,28&text=Rishitha%20Gogineni&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Building%20AI%20Systems%20%C2%B7%20Former%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;RAG+%7C+Retrieval+%7C+LLM+Evaluation;Reliable%2C+measurable%2C+deployed;M.S.+Data+Analytics+%40+San+Jose+State" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;RAG+%7C+Retrieval+%7C+LLM+Evaluation;Reliable%2C+measurable%2C+deployed;M.S.+Data+Analytics+%40+San+Jose+State" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Masters](https://img.shields.io/badge/M.S.-Data%20Analytics%20%40%20SJSU-6366F1?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/San%20Jose%2C%20CA-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
+![Masters](https://img.shields.io/badge/M.S.-Data%20Analytics%20%40%20SJSU-3B82F6?style=for-the-badge&labelColor=0D1117)
+![Location](https://img.shields.io/badge/San%20Jose%2C%20CA-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
 
 <br/>
 
 <a href="https://linkedin.com/in/rishitha-gogineni-010728147">
-  <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
 <a href="mailto:rishitha.gogineni@sjsu.edu">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
 </a>
 <a href="https://github.com/rishitha-gogineni">
-  <img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rishitha-gogineni&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/rishitha-gogineni?style=flat-square&color=8B5CF6&labelColor=0D1117&label=Followers" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=rishitha-gogineni&style=flat-square&color=0EA5E9&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/rishitha-gogineni?style=flat-square&color=0EA5E9&labelColor=0D1117&label=Followers" alt="Followers" />
 
 </div>
 
@@ -58,7 +58,10 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,mysql,bash&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+</p>
 
 **AI / ML & Data**
 
@@ -73,7 +76,8 @@
 **Backend & Databases**
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=databricks&logoColor=white" alt="Delta Lake" />
 </p>
 
@@ -252,31 +256,14 @@ Maintained and modernized a large on-prem Hadoop platform for a pharmaceutical c
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB ANALYTICS SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishitha-gogineni&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=rishitha-gogineni&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitha-gogineni&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                          GITHUB TROPHIES SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> GitHub Activity
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rishitha-gogineni&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rishitha-gogineni&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
@@ -288,7 +275,7 @@ Maintained and modernized a large on-prem Hadoop platform for a pharmaceutical c
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishitha-gogineni&bg_color=0D1117&color=A855F7&line=8B5CF6&point=C9D1D9&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishitha-gogineni&bg_color=0D1117&color=0EA5E9&line=06B6D4&point=C9D1D9&area=true&hide_border=true" />
 
 </div>
 
@@ -337,13 +324,13 @@ open_to:
 <div align="center">
 
 <a href="mailto:rishitha.gogineni@sjsu.edu">
-  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" />
 </a>
 <a href="https://linkedin.com/in/rishitha-gogineni-010728147">
-  <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
 <a href="https://github.com/rishitha-gogineni">
-  <img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
 </a>
 
 </div>
@@ -358,6 +345,6 @@ open_to:
 
 > *"Ship AI that's measured, tested, and grounded in evidence — not demos."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,18,20" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=20,24,28" alt="footer" />
 
 </div>
